@@ -6,40 +6,40 @@
 
 ## 🌍 Vision & Mission
 
-**The Farmer Company** is building **The Digital Orchard**, a comprehensive platform ecosystem designed to unify the fragmented agricultural supply chain. Think of it as "Uber Freight + Amazon for Agri."
+**The Farmer Company** is building **The Digital Orchard**—a unified platform that connects a traditionally fragmented agricultural supply chain. Think “Uber Freight + Amazon for Agri,” purpose-built for farming and food logistics.
 
-Our mission is to empower every stakeholder in the agricultural journey—from seed to shelf. By integrating real-time logistics, transparent marketplaces, and data-driven insights, we are creating a seamless digital infrastructure for the modern agrarian economy.
+Our mission is to empower every stakeholder from seed to shelf. By combining real-time logistics, transparent marketplaces, and data-driven insights, we deliver a seamless digital backbone for the modern agrarian economy.
 
 ---
 
 ## 🚀 The Ecosystem: Mission Control
 
-The platform works as a unified "Mission Control" center, powering three interconnected portals:
+The Digital Orchard operates as a centralized “Mission Control” with three interconnected portals:
 
 ### 1. **Origin (For Farmers)**
-*   **Purpose:** Empower farmers with tools to manage produce, track logistics, and access fair markets.
-*   **Key Features:** Crop inventory management, direct-to-exchange listing, weather & soil insights.
+*   **Purpose:** Give farmers the tools to manage produce, coordinate logistics, and access fair markets.
+*   **Key Features:** Crop inventory management, direct-to-exchange listings, weather & soil insights.
 
 ### 2. **Exchange (For Buyers)**
-*   **Purpose:** A transparent digital marketplace for B2B procurement.
-*   **Key Features:** Real-time commodity trading, bulk procurement, quality verification, and secure transactions.
+*   **Purpose:** A transparent, efficient B2B marketplace for procurement.
+*   **Key Features:** Real-time commodity trading, bulk sourcing, quality verification, secure transactions.
 
 ### 3. **RouteMaster (For Logistics)**
-*   **Purpose:** The logistical backbone optimizing the movement of goods.
-*   **Key Features:** Fleet management, route optimization, shipment tracking, and delivery verification.
+*   **Purpose:** The operational backbone for moving goods quickly and reliably.
+*   **Key Features:** Fleet management, route optimization, shipment tracking, delivery verification.
 
 ---
 
 ## 🛠 Tech Stack
 
-Built with cutting-edge technologies for performance, scalability, and premium aesthetics.
+Built for performance, scalability, and premium user experience.
 
 *   **Frontend:** [React 19](https://react.dev/) with [Vite](https://vitejs.dev/)
-*   **Styling:** [Tailwind CSS 4](https://tailwindcss.com/) & [Framer Motion](https://www.framer.com/motion/) (Animations)
+*   **Styling:** [Tailwind CSS 4](https://tailwindcss.com/) & [Framer Motion](https://www.framer.com/motion/) (animations)
 *   **State Management:** [Zustand](https://zustand-demo.pmnd.rs/)
 *   **Maps & Location:** [Mapbox GL](https://www.mapbox.com/)
 *   **Backend & Auth:** [Supabase](https://supabase.com/) (PostgreSQL + Auth)
-*   **AI Intelligence:** [Google Gemini](https://deepmind.google/technologies/gemini/) (Generative AI integration)
+*   **AI Intelligence:** [Google Gemini](https://deepmind.google/technologies/gemini/) (generative AI integration)
 
 ---
 
